@@ -80,7 +80,7 @@
 
 ### 🏆 Achievements
 
-- ✅ 200+ Problems Solved on Leetcode  
+- ✅ 150+ Problems Solved on Leetcode  
 - 🥇 Gold Badge on Code360 by Coding Ninjas  
 - 🌟 5-Star Problem Solving on HackerRank  
 - 🏅 Competitive performer on GeeksforGeeks
