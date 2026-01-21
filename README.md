@@ -8,7 +8,7 @@
 I'm currently pursuing a B.Tech in Computer Science and Engineering (IoT) at Pranveer Singh Institute of Technology.  
 I'm passionate about building impactful technology—particularly in the intersection of **IoT**, **AI/ML**, and **Web Development**.
 
-- 🔬 Working on: **Smart Glasses for the Visually Impaired** and **Braveller - A Travel Website**
+- 🔬 Working on: **Smart Glasses for the Visually Impaired**
 - 📖 Learning: **Deep Learning**, **Computer Vision**, and **Advanced SQL**
 - 🤝 Open to collaboration on **innovative, real-world tech projects**
 - 📫 Reach out: [ishitamodi0@gmail.com](mailto:ishitamodi0@gmail.com)
@@ -17,10 +17,11 @@ I'm passionate about building impactful technology—particularly in the interse
 
 ### Skills
 
-**Languages**: Python, SQL, Java, JavaScript, HTML, CSS  
-**Libraries/Tools**: Pandas, NumPy, Matplotlib, Git, GitHub  
-**Concepts**: Data Structures & Algorithms, DBMS, OOP, Data Analysis & Visualization  
-**Productivity**: MS Excel, Google Suite  
+**Languages: Python, C, SQL, Java, JavaScript, HTML, CSS
+**Frameworks & Libraries: Tkinter (GUI), Matplotlib (Analytics), FPDF (Report Generation),Flask, Pandas, NumPy
+**Database Management: SQLite, Relational Database Design, CRUD Operations, Complex SQL Query Optimization
+**Tools & DevOps: Git, GitHub (Version Control & Workflow), VS Code
+**Core Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Software Development Life Cycle (SDLC), Data Visualization, User Authentication Logic 
 
 ---
 
@@ -28,9 +29,6 @@ I'm passionate about building impactful technology—particularly in the interse
 
 **Smart Glasses for the Visually Impaired**  
 A real-time assistive system using IoT and computer vision for obstacle detection and environment sensing.
-
-**Braveller – A Travel Website**  
-A responsive and performance-optimized platform for travel enthusiasts using HTML, CSS, JS, and SQL.
 
 ---
 
