@@ -17,11 +17,11 @@ I'm passionate about building impactful technology—particularly in the interse
 
 ### Skills
 
-**Languages**: Python, C, SQL, Java, JavaScript, HTML, CSS
-**Frameworks & Libraries**: Tkinter (GUI), Matplotlib (Analytics), FPDF (Report Generation),Flask, Pandas, NumPy
-**Database Management**: SQLite, Relational Database Design, CRUD Operations, Complex SQL Query Optimization
-**Tools & DevOps**: Git, GitHub (Version Control & Workflow), VS Code
-**Core Concepts**: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Software Development Life Cycle (SDLC), Data Visualization, User Authentication Logic 
+- **Languages**: Python, C, SQL, Java, JavaScript, HTML, CSS
+- **Frameworks & Libraries**: Tkinter (GUI), Matplotlib (Analytics), FPDF (Report Generation),Flask, Pandas, NumPy
+- **Database Management**: SQLite, Relational Database Design, CRUD Operations, Complex SQL Query Optimization
+- **Tools & DevOps**: Git, GitHub (Version Control & Workflow), VS Code
+- **Core Concepts**: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Software Development Life Cycle (SDLC), Data Visualization, User Authentication Logic 
 
 ---
 
